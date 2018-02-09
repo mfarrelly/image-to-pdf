@@ -1,0 +1,10 @@
+{
+  "name": "image-to-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^3.0.8",
+    "pdfkit": "^0.8.3"
+  }
+}
